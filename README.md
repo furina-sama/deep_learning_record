@@ -23,5 +23,4 @@ If you are also interested in these topics, feel free to download, run, or use i
 
 ## 🚀 Current Status
 
-- Completed: PyTorch Basics, DNN, CNN, RNN
 - In Progress: Transformer
