@@ -4,8 +4,8 @@
 
 ## 📚 Learning Path
 
-1. **PyTorch Basics** - Tensors, autograd, custom modules
-2. **DNN (Deep Neural Networks)** - Fully connected networks, Wide & Deep
+1. **DNN (Deep Neural Networks)** - Fully connected networks, Wide & Deep
+2. **PyTorch Basics** - Tensors, autograd, custom modules
 3. **CNN (Convolutional Neural Networks)** - Image classification, migration learning
 4. **RNN (Recurrent Neural Networks)** - Embedding, LSTM, text generation
 5. **Neural Machine Translation (In Progress)** - Seq2Seq with Attention, Transformer
