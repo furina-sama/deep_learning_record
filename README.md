@@ -8,7 +8,7 @@
 2. **DNN (Deep Neural Networks)** - Fully connected networks, Wide & Deep
 3. **CNN (Convolutional Neural Networks)** - Image classification, migration learning
 4. **RNN (Recurrent Neural Networks)** - Embedding, LSTM, text generation
-5. **Neural Machine Translation (In Progress)** - Seq2Seq, Attention, Transformer
+5. **Neural Machine Translation (In Progress)** - Seq2Seq with Attention, Transformer
 
 ## 📥 Download & Reference
 
